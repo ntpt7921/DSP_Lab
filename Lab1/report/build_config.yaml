@@ -1,0 +1,21 @@
+---
+### BUILD CONFIGURATION
+from: markdown
+input-file:
+  - content.md
+verbosity: WARNING
+fail-if-warnings: true
+metadata-file: metadata.yaml
+
+### INCLUDES
+#include-in-header:
+#include-before-body:
+#include-after-body:
+resource-path:
+  - .
+
+### OPTION FOR GENERAL WRITER
+highlight-style: pygments
+
+### OPTION FOR SPECIFIC WRITER
+#listings: true

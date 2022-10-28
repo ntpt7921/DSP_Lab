@@ -1,0 +1,26 @@
+---
+### METADATA
+title: Lab02 Report
+subtitle: Digital Signal Processing (CO2035)
+description: Report for Lab 02
+author:
+- Nguyễn Trần Phước Thành - 1912059
+date: This will be automated
+subject: DSP
+
+### DOCUMENT CONFIGURATION
+documentclass: article
+classoption:
+  - a4paper
+  - titlepage
+geometry:
+  - margin=1in
+header-includes:
+  - \usepackage{amssymb}
+numbersections: true
+
+### FRONT MATTERS
+toc: true
+toc-depth: 2
+lof: false
+lot: false
