@@ -2,7 +2,6 @@
 ### BUILD CONFIGURATION
 from: markdown
 input-file:
-  - preamble.md
   - content.md
 metadata-file: metadata.yaml
 verbosity: WARNING

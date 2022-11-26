@@ -1,4 +1,4 @@
-// Exercise for LAB 1 - DSP
+// Exercise for LAB 2 - DSP
 // All of this is answer for the numbered exercise
 // continuity is implied, unless stated otherwise
 // meaning that the variable list of the current command is affected by previous command
